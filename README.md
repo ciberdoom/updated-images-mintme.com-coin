@@ -15,9 +15,6 @@
 /build/icons/16x16.png
 ![16x16](/build/icons/16x16.png)
 
-/build/icons/16x16.png
-![16x16](/build/icons/16x16.png)
-
 /build/icons/24x24.png
 ![24x24](/build/icons/24x24.png)
 
